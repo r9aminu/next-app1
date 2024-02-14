@@ -22,7 +22,7 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
 
     ```bash
     git clone https://github.com/r9aminu/next-app1.git
-    cd your-next-app
+    cd next-app1
     ```
 
 2. Install the project dependencies:
